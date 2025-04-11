@@ -29,7 +29,7 @@
 
 ## 📁 Project Structure
 
-```
+
 jobtraker/
 │
 ├── client/                     # React frontend
@@ -70,7 +70,7 @@ jobtraker/
 ├── server.js                  # Entry point for Express backend
 ├── .env                       # Environment variables
 └── package.json
-```
+
 
 ---
 

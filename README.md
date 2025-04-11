@@ -1,5 +1,5 @@
 
-```markdown
+
 # JobTraker
 
 **JobTraker** is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to manage their job applications efficiently. It includes authentication, job CRUD operations, job status tracking, filtering, and visual analytics via interactive dashboards.
@@ -87,7 +87,7 @@ jobtraker/
 - Integrated with **Chart.js** to visualize job stats
 - Tracks status like pending, interview, and declined
 
----
+
 
 ## 📦 Getting Started
 

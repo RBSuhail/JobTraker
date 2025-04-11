@@ -1,4 +1,4 @@
-/api/*  https://mern-course-jobify-e4jv.onrender.com/api/:splat  200
+/api/* https://job-traker-s9i5.vercel.app/api/:splat  200
 
 /* /index.html 200
 
